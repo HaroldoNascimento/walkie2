@@ -1,4 +1,8 @@
 Flask
-Flask-Cors
+Flask-SQLAlchemy
+Flask-CORS
+Flask-JWT-Extended
+gunicorn
+Werkzeug
 
 
